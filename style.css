@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(37, 52, 126);
+}
+
+.logo{
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.logo span{
+    color: rgb(38, 181, 173); 
+    font-size: 30px; 
+}
+
+.menu{
+    gap: 30px;
+    display: flex;
+    font-size: 15px;
+    color:aliceblue
+}
